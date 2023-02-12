@@ -2,7 +2,7 @@ package miscelleneous;
 
 /**
 *
-* @author Zafar Iqbal Khan, zkhan@psu.edu. sa
+* @author Zafar Iqbal Khan, zeeshan bashir
 */
 
 public class Jenkinswithgit {
